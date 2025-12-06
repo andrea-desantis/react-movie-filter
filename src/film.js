@@ -5,4 +5,6 @@ const film = [
   { title: 'Batman', genre: 'Azione' },
   { title: 'Interstellar', genre: 'Fantascienza' },
   { title: 'Pulp Fiction', genre: 'Thriller' },
-];
+  ];
+
+  export default film;
